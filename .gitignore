@@ -1,0 +1,84 @@
+# .gitignore for HacxGPT Desktop
+
+# API Keys and Configuration
+.hacx
+.hacx_gui_config.json
+*.env
+config.json
+api_keys.txt
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Backup files
+*.bak
+*.backup
+
+# Screenshots (add manually)
+screenshots/*.png
+screenshots/*.jpg
+
+# Local development
+dev/
+test_*.py
+debug_*.py

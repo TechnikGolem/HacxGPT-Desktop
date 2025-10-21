@@ -1,0 +1,12 @@
+# Core dependencies (both CLI and GUI)
+openai>=1.0.0
+colorama>=0.4.6
+pwinput>=1.0.3
+python-dotenv>=1.0.0
+rich>=13.3.5
+
+# GUI-specific dependencies (optional for CLI-only usage)
+PyQt6>=6.4.0
+
+# Development dependencies (optional)
+pyinstaller>=5.0.0
