@@ -3,8 +3,8 @@
 <div align="center">
   <img src="img/HacxGPT.png" alt="HacxGPT Logo" width="400"/>
   
-  [![GitHub Stars](https://img.shields.io/github/stars/BlackTechX011/HacxGPT-Desktop?style=social)](https://github.com/BlackTechX011/HacxGPT-Desktop/stargazers)
-  [![GitHub Forks](https://img.shields.io/github/forks/BlackTechX011/HacxGPT-Desktop?style=social)](https://github.com/BlackTechX011/HacxGPT-Desktop/network/members)
+  [![GitHub Stars](https://img.shields.io/github/stars/TechnikGolem/HacxGPT-Desktop?style=social)](https://github.com/TechnikGolem/HacxGPT-Desktop/stargazers)
+  [![GitHub Forks](https://img.shields.io/github/forks/TechnikGolem/HacxGPT-Desktop?style=social)](https://github.com/TechnikGolem/HacxGPT-Desktop/network/members)
   [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-red)](LICENSE.txt)
   [![Python](https://img.shields.io/badge/python-3.8+-blue)](https://python.org)
   [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)](https://www.riverbankcomputing.com/software/pyqt/)
