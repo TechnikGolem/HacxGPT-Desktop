@@ -2,6 +2,17 @@
 
 First off, thank you for considering contributing to HacxGPT Desktop! 🎉
 
+## 🏠 **Project Origin & Attribution**
+
+**Important**: This project is built upon **BlackTechX's** original [HacxGPT CLI](https://github.com/BlackTechX011/Hacx-GPT). 
+
+- **Original Creator**: BlackTechX
+- **Repository Source**: Taken from colleague's project with permission
+- **Enhancement**: Desktop GUI and additional features by TechnikGolem
+- **License**: CC BY-NC-SA 4.0 (maintained from original)
+
+When contributing, please respect the original work and maintain proper attribution to BlackTechX.
+
 ## 🤝 How to Contribute
 
 ### 🐛 Reporting Bugs

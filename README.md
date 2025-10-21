@@ -10,7 +10,15 @@
   [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)](https://www.riverbankcomputing.com/software/pyqt/)
 </div>
 
-## 🚀 Features
+## � **Attribution & Credits**
+
+> **🤝 Repository Origin**: This repository was originally taken from my colleague **BlackTechX** ([HacxGPT](https://github.com/BlackTechX011/Hacx-GPT)) and then enhanced with a complete desktop GUI interface, themes, and additional hacker tools.
+> 
+> **👥 Development**: The original CLI foundation by BlackTechX, desktop enhancement and GUI development by **TechnikGolem** with community contributions.
+> 
+> **📄 License**: Maintained under the same CC BY-NC-SA 4.0 license with proper attribution to original creator.
+
+## �🚀 Features
 
 ### 🎨 **Multi-Theme Desktop GUI**
 - **4 Stunning Themes**: Cyberpunk, Matrix Hacker, Gaming RGB, Modern Clean
@@ -184,20 +192,44 @@ See [LICENSE.txt](LICENSE.txt) for full details.
 - **PyInstaller** - Executable builder
 - **Rich** - Terminal formatting (CLI version)
 
-## 🔗 Links
+## � **Credits & Attribution**
 
-- **Original Project**: [HacxGPT CLI](https://github.com/BlackTechX011/Hacx-GPT)
-- **Telegram**: [t.me/HacxGPT](https://t.me/HacxGPT)
-- **Documentation**: [Wiki](wiki)
-- **Issues**: [GitHub Issues](issues)
+### 👨‍💻 **Original Creator**
+- **BlackTechX** - Original HacxGPT CLI project creator
+- **Repository**: [github.com/BlackTechX011/Hacx-GPT](https://github.com/BlackTechX011/Hacx-GPT)
+- **Social**: [@BlackTechX011](https://github.com/BlackTechX011)
+
+### 🤝 **Repository Development**
+- **Source**: This repository was taken from my colleague BlackTechX's original HacxGPT project
+- **Enhancement**: Desktop GUI, themes, and hacker tools added by TechnikGolem
+- **Collaboration**: Built upon BlackTechX's solid foundation with proper attribution
+
+### 📜 **License Compliance**
+- **Original License**: CC BY-NC-SA 4.0 (maintained)
+- **Attribution**: Full credit to BlackTechX for the core concept and CLI implementation
+- **Enhancements**: Desktop interface and additional features under same license
+
+### 🌟 **Community**
+- **Contributors**: Welcome community contributions
+- **Inspiration**: BlackTechX's vision for accessible AI tools
+- **Respect**: Maintaining the spirit of the original project
+
+## �🔗 Links
+
+- **🏠 Original Project**: [HacxGPT CLI](https://github.com/BlackTechX011/Hacx-GPT)
+- **📱 Telegram**: [t.me/HacxGPT](https://t.me/HacxGPT)
+- **📚 Documentation**: [Wiki](wiki)
+- **🐛 Issues**: [GitHub Issues](issues)
+- **💬 Discussions**: [GitHub Discussions](discussions)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BlackTechX011/HacxGPT-Desktop&type=Date)](https://star-history.com/#BlackTechX011/HacxGPT-Desktop&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TechnikGolem/HacxGPT-Desktop&type=Date)](https://star-history.com/#TechnikGolem/HacxGPT-Desktop&Date)
 
 ---
 
 <div align="center">
-  <b>🔥 Made with passion for the AI community 🔥</b><br>
+  <b>🔥 Enhanced from BlackTechX's HacxGPT with desktop GUI and themes 🔥</b><br>
+  <sub>Original concept by BlackTechX • Desktop enhancement by TechnikGolem</sub><br>
   <sub>If this project helped you, consider giving it a ⭐!</sub>
 </div>
